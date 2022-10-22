@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<a href="http://www.google.com" target="blank"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/pX156F1k/loading-unscreen-by-raja.gif"/></a>
+<a href="http://www.google.com" target="blank"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/xCKQfL0K/coder-unscreen.gif"/></a>
 
 <p align="left"> <a href="https://twitter.com/CodeWithRaja?t=eYak8FtbUDBU1EuNPLZ6QA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/codewiteraja?logo=twitter&style=for-the-badge" alt="codewiteraja" /></a> </p>
 
