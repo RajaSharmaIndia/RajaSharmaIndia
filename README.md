@@ -3,13 +3,12 @@
 
 <a href="http://www.google.com" target="blank"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/xCKQfL0K/coder-unscreen.gif"/></a>
 
-<p align="left"> <a href="https://i.postimg.cc/KzdG7k0G/About-Me-by-raja.gif" target="blank"><img src="https://i.postimg.cc/KzdG7k0G/About-Me-by-raja.gif" width="200" /></a> </p>
+
 
 <img src="https://i.postimg.cc/1tf7R1tV/computer-gif.gif" width="20"/> 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
 
 <a href="mailto:mail2raja.india@gmail.com" > <img src="https://i.postimg.cc/gjHBLTkp/mail-gif-by-raja.gif" width="20"/> </a> **mail2raja.india@gmail.com**
 
-- ⚡ Fun fact **🙂**
 
 <h3 align="left">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 :</h3>
 <p align="left">
@@ -33,8 +32,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajasharmaindia&show_icons=true&locale=en&layout=compact" alt="rajasharmaindia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajasharmaindia&show_icons=true&locale=en" alt="rajasharmaindia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajasharmaindia&" alt="rajasharmaindia" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rajasharmaindia&show_icons=true&locale=en" alt="rajasharmaindia" width="400"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajasharmaindia&" alt="rajasharmaindia" width="300"/></p>
