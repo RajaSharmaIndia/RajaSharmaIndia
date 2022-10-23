@@ -3,7 +3,7 @@
 
 <a href="http://www.google.com" target="blank"><img align="right" alt="coding" width="300" src="https://i.postimg.cc/xCKQfL0K/coder-unscreen.gif"/></a>
 
-<p align="left"> <a href="https://twitter.com/CodeWithRaja?t=eYak8FtbUDBU1EuNPLZ6QA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/codewiteraja?logo=twitter&style=for-the-badge" alt="codewiteraja" /></a> </p>
+<p align="left"> <a href="https://i.postimg.cc/KzdG7k0G/About-Me-by-raja.gif" target="blank"><img src="https://i.postimg.cc/KzdG7k0G/About-Me-by-raja.gif" width="200" /></a> </p>
 
 <img src="https://i.postimg.cc/1tf7R1tV/computer-gif.gif" width="20"/> 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
 
