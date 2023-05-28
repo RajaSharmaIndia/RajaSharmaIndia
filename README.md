@@ -6,8 +6,7 @@
 
 
 <img src="https://i.postimg.cc/1tf7R1tV/computer-gif.gif" width="20"/> 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials">
-</iframe>
+
 <a href="mailto:mail2raja.india@gmail.com" > <img src="https://i.postimg.cc/gjHBLTkp/mail-gif-by-raja.gif" width="20"/> </a> **mail2raja.india@gmail.com**
 
 
