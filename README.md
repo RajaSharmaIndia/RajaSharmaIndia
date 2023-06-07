@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100028266428460" target="blank"><img align="center" src="https://i.postimg.cc/vBTQyF5F/facebook-unscreen-raja.gif" alt="raja sharma" height="50" width="50" /></a>
 <a href="https://twitter.com/CodeWithRaja?t=eYak8FtbUDBU1EuNPLZ6QA&s=09" target="blank"><img align="center" src="https://i.postimg.cc/XqhHh7hp/twitter-logo.gif" alt="codewiteraja" height="50" width="50" /></a>  
-<a href="https://instagram.com/_rdx_raja_786" target="blank"><img align="center" src="https://i.postimg.cc/MKYg9jJX/instagram-unscreen.gif" alt="_rdx_raja_786" height="45" width="45" /></a>
+<a href="https://instagram.com/_rdx_raja_127.0.0.1" target="blank"><img align="center" src="https://i.postimg.cc/MKYg9jJX/instagram-unscreen.gif" alt="_rdx_raja_786" height="45" width="45" /></a>
 </p>
 
 <h3 align="left">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀 :</h3>
